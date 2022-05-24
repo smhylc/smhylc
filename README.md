@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software, Frontend and Backend Tech, Robotics, ROS, Autonomous System, Database and ORM**
 
-- 📫 How to reach me **semih.yolcu01@gmail.com**
+- 📫 reach me at **semih.yolcu01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
