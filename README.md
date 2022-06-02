@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- 📫 reach me at semih.yolcu01@gmail.com  
+- 📫 reach me at -> semih.yolcu01@gmail.com   
   
 
 <br/>  
