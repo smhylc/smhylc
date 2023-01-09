@@ -54,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/>
 <img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" height="40"/>
-  <img src="[https://somospnt.com/images/blog/cover/235-relaciones-con-jpa.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyc39d2Istz1wfD02sFjn6z0KRvayUz4Q4KbehWyydbSEpxCO2XA48jfgSPqYQA6ZWM8w&usqp=CAU)" alt="JPA" height="40"/>
+<img src="https://melahatmindivanli.files.wordpress.com/2016/03/ekran-alc4b1ntc4b1sc4b1.png" alt="JPA" height="40"/>
 </div>
   
 </td><td valign="top" width="33%">
