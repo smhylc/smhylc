@@ -56,7 +56,8 @@
 <img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" height="40"/>
 </div>
   
-
+</td><td valign="top" width="33%">
+  
 ### Robotics / Tools  
 <div align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/>
