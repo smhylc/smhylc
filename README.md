@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Semih YOLCU, a full-time full-stack developer 👨‍💻 working  Autonomous Robotics Platform 🚀</div>  
+### <div align="center">I'm Semih YOLCU, a full-time full-stack **Java** developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on Autonomous Robotics Platform (FullStack)  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Java Spring, Spring Boot Tech   
   
 
-- **❓  Ask me about Software, Frontend and Backend Tech, Robotics, ROS, Autonomous System, Database and ORM**  
+- **❓  Ask me about Software, Frontend and Backend Tech, JAVA, Spring Boot, Robotics, ROS, Autonomous System, Database and ORM**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -34,9 +34,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
