@@ -6,10 +6,10 @@
 ### <div align="center">I'm Semih YOLCU, a full-time fullstack **Java** developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on Autonomous Robotics Platform (FullStack)  
+- 🔭 I’m currently working on Java, Spring Boot Tech Banking and Insurance
   
 
-- 🌱 I’m currently learning Java Spring, Spring Boot Tech   
+- 🔭 I’m currently working on Autonomous Robotics Platform 
   
 
 - **❓  Ask me about Software, Frontend and Backend Tech, JAVA, Spring Boot, Robotics, ROS, Autonomous System, Database and ORM**  
@@ -34,6 +34,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -48,11 +49,17 @@
 
 </td><td valign="top" width="33%">
 
-
+### Database and ORM  
+<div align="center">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/>
+<img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" height="40"/>
+</div>
+  
 
 ### Robotics / Tools  
 <div align="center">  
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
