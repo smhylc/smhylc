@@ -57,7 +57,7 @@
 <img src="https://melahatmindivanli.files.wordpress.com/2016/03/ekran-alc4b1ntc4b1sc4b1.png" alt="JPA" height="40"/>
 </div>
   
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
   
 ### Tools  
 <div align="center">  
@@ -67,7 +67,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
   
 ### Robotics
 <div align="center">  
