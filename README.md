@@ -47,7 +47,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 ### Database and ORM  
 <div align="center">  
