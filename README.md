@@ -54,6 +54,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/>
 <img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" height="40"/>
+  <img src="https://somospnt.com/images/blog/cover/235-relaciones-con-jpa.png" alt="JPA" height="40"/>
 </div>
   
 </td><td valign="top" width="33%">
