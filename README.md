@@ -26,7 +26,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=smhylc&theme=monokai" alt="smhylc" /></a> </p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="20%">
 
 
 
@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="20%">
 
 
 
