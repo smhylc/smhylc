@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Semih YOLCU, a full-time full-stack **Java** developer 👨‍💻🚀</div>  
+### <div align="center">I'm Semih YOLCU, a full-time fullstack **Java** developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on Autonomous Robotics Platform (FullStack)  
