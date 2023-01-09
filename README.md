@@ -67,8 +67,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
-
 <td valign="top" width="33%">
   
 ### Robotics
@@ -82,6 +80,7 @@
 
 <br/>  
 
+</td></tr></table>  
 
 ## Connect with me  
 <div align="center">
