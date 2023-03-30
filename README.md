@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Semih YOLCU, a full-time fullstack **Java** developer 👨‍💻🚀</div>  
+### <div align="center">I'm Semih YOLCU, a fullstack fullstack **Java** developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on Java, Spring Boot Tech Banking and Insurance
