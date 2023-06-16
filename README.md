@@ -6,7 +6,7 @@
 ### <div align="center">I'm Semih YOLCU, a  fullstack **Java** developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on Java, Spring Boot Tech Banking and Insurance
+- 🔭 I’m currently working on Java, Spring Boot and React 
   
 
 - 🔭 I’m currently working on Autonomous Robotics Platform 
