@@ -9,10 +9,9 @@
 - 🔭 I’m currently working on Java, Spring Boot and React 
   
 
-- 🔭 I’m currently working on Autonomous Robotics Platform 
   
 
-- **❓  Ask me about Software, Frontend and Backend Tech, JAVA, Spring Boot, Robotics, ROS, Autonomous System, Database and ORM**  
+- **❓  Ask me about Software, Frontend and Backend Tech, JAVA, Spring Boot, Database and ORM**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -67,11 +66,7 @@
 
 <td valign="top" width="25%">
   
-### Robotics
-<div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.png" alt="ROS" height="50" /> 
-<img style="margin: 10px" src="https://i.hizliresim.com/s495z36.jpg" alt="ROSbridge" height="50" />
-</div>
+
 
 </td></tr></table>  
 
