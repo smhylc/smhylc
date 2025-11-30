@@ -8,6 +8,9 @@
   </a>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhylc" alt="smhylc" /></a> </p>
+
+
 <div align="center">
   <a href="https://linkedin.com/in/semih-yolcu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
