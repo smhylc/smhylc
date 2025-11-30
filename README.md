@@ -4,11 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/smhylc">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+%26+Unmanned+Systems;Building+High-Performance+Real-time+Software;Expert+in+Java+Spring+Boot+%26+Microservices;Authoring+React+NPM+Libraries" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+High-Performance+Real-time+Software;Expert+in+Java+Spring+Boot+%26+Microservices;Authoring+React+NPM+Libraries" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhylc" alt="smhylc" /></a> </p>
 
 
 <div align="center">
@@ -66,9 +65,7 @@
 
 <div align="center">
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smhylc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="smhylc" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhylc" alt="smhylc" /></a> </p>
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=smhylc&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
