@@ -79,14 +79,10 @@
 
 <div align="center">
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smhylc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="smhylc" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhylc" alt="smhylc" /></a> </p>
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=smhylc&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smhylc&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-  
+
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smhylc&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak" />
 </div>
