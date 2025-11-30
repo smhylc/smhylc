@@ -8,8 +8,6 @@
   </a>
 </div>
 
-
-
 <div align="center">
   <a href="https://linkedin.com/in/semih-yolcu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -49,14 +47,30 @@
 
 <br/>
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
-<p align="center"><i>The tools and technologies I use to build scalable systems</i></p>
-
+<h3 align="center">🛠️ Technical Arsenal & Architecture</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kafka" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,redis,elasticsearch,docker,kubernetes" /><br/>
-  
-  <img src="https://skillicons.dev/icons?i=ts,react,redux,nextjs,html,css,git,jenkins" />
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <b>☕ Backend & Core</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,spring" />
+      </td>
+      <td align="center" width="50%">
+        <b>⚛️ Frontend Ecosystem</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,redux" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>☁️ Database & Infrastructure</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,oracle,redis,elasticsearch,docker,kubernetes" />
+      </td>
+      <td align="center" width="50%">
+        <b>⚙️ DevOps & Architecture Tools</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,jenkins,maven,gradle,kafka,hibernate" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -65,7 +79,9 @@
 
 <div align="center">
   <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smhylc" alt="smhylc" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=smhylc&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="smhylc" />
+  </a>
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=smhylc&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
